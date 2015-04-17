@@ -13,3 +13,7 @@ Helpers:
 
 * rw - transforms timeseries (vector array) into a matrix of running windows without copying data
 * rwalk - subtracts mean and return cumulative sum
+
+Citation:
+
+    Jurica P. Multifractal analysis for all. Frontiers in Physiology. 2015;6:27. doi:10.3389/fphys.2015.00027.
